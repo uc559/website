@@ -1,0 +1,18 @@
+/* Styles for disks, pillars, and controls */  
+#game-container {  
+  /* Positioning and layout */  
+}  
+  
+.disk {  
+  /* Disk styles, including centering and overlap adjustments */  
+  position: absolute;  
+  transform: translateX(...);  
+  transform: translateY(...);  
+}  
+  
+.pillar {  
+  /* Pillar styles, including dimensions and colors */  
+  height: ...;  
+  width: ...;  
+  background-color: ...;  
+}
